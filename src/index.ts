@@ -1,1 +1,1 @@
-console.log("helldddo")
+import "./netflix"
