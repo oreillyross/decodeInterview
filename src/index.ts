@@ -1,2 +1,2 @@
 import "./netflix"
-import { usage } from "./LinkedListUse"
+import "./LinkedListUse"
